@@ -53,4 +53,4 @@ The Lion optimizer was introduced in the following paper:
 ```
 
 # 🚨Wanted!🚨
-**Contributors and testers to this project are HIGHLY WANTED!** If you test it, find any bugs or have ideas for new features, please drop me a message,  submit an issue or submit a pull request.
+**Contributors and testers to this project are HIGHLY WANTED!** If you test it, find any bugs or have ideas for new features, please drop me a message,  submit an issue or a pull request.
